@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "word": "a person (pl. people)",
+    "translate": "человек, персона",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 2,
+    "word": "a man (pl. men)",
+    "translate": "мужчина",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 3,
+    "word": "a woman (pl. women)",
+    "translate": "женщина",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 4,
+    "word": "a child (pl. children)",
+    "translate": "ребенок",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 5,
+    "word": "a boy",
+    "translate": "мальчик",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 6,
+    "word": "a girl",
+    "translate": "девочка",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 7,
+    "word": "a friend",
+    "translate": "друг",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 8,
+    "word": "a neighbour (AmE: a neighbor)",
+    "translate": "сосед",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 9,
+    "word": "a name",
+    "translate": "имя, название",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 10,
+    "word": "a surname (AmE: a last name)",
+    "translate": "фамилия",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 11,
+    "word": "a maiden name",
+    "translate": "девичья фамилия",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 12,
+    "word": "an address",
+    "translate": "адрес",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 13,
+    "word": "single",
+    "translate": "холостой/незамужняя",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 14,
+    "word": "married",
+    "translate": "женатый/замужняя",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 15,
+    "word": "age",
+    "translate": "возраст",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 16,
+    "word": "old",
+    "translate": "старый",
+    "thema": "person",
+    "themaTrans": "человек"
+  },
+  {
+    "id": 17,
+    "word": "young",
+    "translate": "молодой",
+    "thema": "person",
+    "themaTrans": "человек"
+  }
+]
