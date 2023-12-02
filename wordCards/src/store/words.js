@@ -1,4 +1,4 @@
-[
+const data = [
   {
     "id": 1,
     "word": "a person (pl. people)",
@@ -118,4 +118,5 @@
     "subject": "person",
     "subjectTrans": "человек"
   }
-]
+];
+export default data;
