@@ -12,4 +12,4 @@ export default defineConfig({
 
 // npm run dev for local
 // npm run build for predeploy
-// npm
+// npm run deploy for deploy
