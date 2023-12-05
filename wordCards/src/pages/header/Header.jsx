@@ -7,12 +7,12 @@ const Header = () => {
   console.log("https://getbootstrap.com/docs/4.0/components/navbar/");
   return (
     <header>
-      <Navbar expand="lg" className="bg-body-tertiary">
+      <Navbar expand="md" className="bg-body-tertiary">
         <Container>
           <Navbar.Brand href="#"></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav className="me-auto d-flex justify-content-around w-100">
               <Nav.Link href="#games">Games</Nav.Link>
               <Nav.Link href="#repeat">Repeat</Nav.Link>
               <Nav.Link href="#profile">Profile</Nav.Link>
