@@ -1,0 +1,12 @@
+.headerLink {
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+  font-size: var(--bs-nav-link-font-size);
+  font-weight: var(--bs-nav-link-font-weight);
+  color: var(--bs-nav-link-color);
+}
+.headerLink:focus,
+.headerLink:hover {
+  color: var(--bs-nav-link-hover-color);
+}
